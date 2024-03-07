@@ -29,8 +29,7 @@ iOS App Development
 Windows App Development
 
 ### Contact Us
-Address: 716, Ecstacy Commercial, JSD Road, Mulund West, Mumbai, Maharashtra 400080
-Phone: +91-022-2591 8457
-Mobile: +91-98206 63724
-
-Email: info@g5web.com
+## Address: 716, Ecstacy Commercial, JSD Road, Mulund West, Mumbai, Maharashtra 400080
+## Phone: +91-022-2591 8457
+## Mobile: +91-98206 63724
+## Email: info@g5web.com
